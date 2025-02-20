@@ -1,0 +1,10 @@
+body {
+  background: black;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+input {
+  display: block;
+  margin: 10px 0;
+}
